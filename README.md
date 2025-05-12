@@ -1,4 +1,8 @@
-## Hi there 👋
+## Namaiwa Pashya DR 👋
+
+![github-header-image](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamxuamRlMzVkMGZocGpqcHVzMDFpem91aDhld3djMzVsdWVqNml2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nzCDqg3pNqg7K/giphy.gif)
+
+
 
 <!--
 **pashya166/pashya166** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +16,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
 -->
+### 🔭 I’m currently working on (Nganggur)
