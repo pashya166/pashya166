@@ -8,9 +8,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=pashya166&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pashya166&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-####  Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pashya166&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=pashya166&icon=2&color=1)](https://visitcount.itsvg.in)
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=49luqo7l3ir0ry7o23invtns8&unique={true|1|on|yes})
