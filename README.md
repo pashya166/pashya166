@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pashya DR</h1>
-<h3 align=>🔭 I’m currently Studying at uBSI <br>🤝 Planning to Create Startup<br>🌱 Currently Python, React <br>
+<h3 align=>🔭 I’m currently Studying at uBSI <br>🤝 Planning to Create Startup<br>🌱 Currently Learning Python, React <br>
 </h3>
 
 ![teddybear_by_orangemagik_d9syene](https://github.com/user-attachments/assets/eb27f8c2-239c-42ea-9def-36aff6348b1a)
