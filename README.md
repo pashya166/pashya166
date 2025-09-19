@@ -1,4 +1,10 @@
-### Hufff
+Hi, I'm Pashya DR
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| JavaScript|
+|     2| Python    |
+|     3| SQL       |
 			
 ![github-header-image](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY21jZDl1MTVmbXk5MXRuN3BxN210bWx2eDhlNWg2YTBjNHF6MWhyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12yMg2IFifCT1C/giphy.gif)
 
