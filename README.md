@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pashya DR</h1>
+<h1 align="center">MORI BUNTAROU</h1>
 <h3 align=>🔭 I’m currently Studying at uBSI <br>🤝 Planning to Create Startup<br>🌱 Currently Learning Python, React <br>
 </h3>
 
