@@ -1,4 +1,4 @@
-<h1 align="center">Lone.code</h1>
+<h1 align="center">PASHÄ</h1>
 <h3 align=>🔭 I’m currently Studying at uBSI <br>🤝 F*ck it I'm learning ML & DL<br>🌱 Currently Learning Python, React <br>
 </h3>
 
